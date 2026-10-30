@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 6a03fda8ccb304f09a3b6b19e80b65b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -583071353806661189
+    second: Mischievous lavender hooded ghost_0
+  - first:
+      213: -5302141726173638722
+    second: Mischievous lavender hooded ghost_1
+  - first:
+      213: -5004041457380276921
+    second: Mischievous lavender hooded ghost_2
+  - first:
+      213: -5979579622581494118
+    second: Mischievous lavender hooded ghost_3
+  - first:
+      213: -4093128007706580226
+    second: Mischievous lavender hooded ghost_4
+  - first:
+      213: 7285551462871497151
+    second: Mischievous lavender hooded ghost_5
+  - first:
+      213: -7576878821610432739
+    second: Mischievous lavender hooded ghost_6
+  - first:
+      213: -2015080253532195632
+    second: Mischievous lavender hooded ghost_7
+  - first:
+      213: -8261650222065262559
+    second: Mischievous lavender hooded ghost_8
+  - first:
+      213: 8318670857842723631
+    second: Mischievous lavender hooded ghost_9
+  - first:
+      213: -3991513933539103267
+    second: Mischievous lavender hooded ghost_10
+  - first:
+      213: -4030949789168678635
+    second: Mischievous lavender hooded ghost_11
+  - first:
+      213: 9051098684329953932
+    second: Mischievous lavender hooded ghost_12
+  - first:
+      213: 7880506477058312464
+    second: Mischievous lavender hooded ghost_13
+  - first:
+      213: -7122211076511921450
+    second: Mischievous lavender hooded ghost_14
+  - first:
+      213: -59725515118846498
+    second: Mischievous lavender hooded ghost_15
+  - first:
+      213: -313239144141716337
+    second: Mischievous lavender hooded ghost_16
+  - first:
+      213: 3852902144917401677
+    second: Mischievous lavender hooded ghost_17
+  - first:
+      213: 7216645972655126965
+    second: Mischievous lavender hooded ghost_18
+  - first:
+      213: 4144658454858228555
+    second: Mischievous lavender hooded ghost_19
+  - first:
+      213: -8030564688054275178
+    second: Mischievous lavender hooded ghost_20
+  - first:
+      213: 4198825751943210671
+    second: Mischievous lavender hooded ghost_21
+  - first:
+      213: -3789873307430799235
+    second: Mischievous lavender hooded ghost_22
+  - first:
+      213: -7819752323394362006
+    second: Mischievous lavender hooded ghost_23
+  - first:
+      213: -1226046091671393822
+    second: Mischievous lavender hooded ghost_24
+  - first:
+      213: 2252544088716222910
+    second: Mischievous lavender hooded ghost_25
+  - first:
+      213: -2063725511788233003
+    second: Mischievous lavender hooded ghost_26
+  - first:
+      213: 7674885252797867363
+    second: Mischievous lavender hooded ghost_27
+  - first:
+      213: 873504624629684767
+    second: Mischievous lavender hooded ghost_28
+  - first:
+      213: -7242575620789883201
+    second: Mischievous lavender hooded ghost_29
+  - first:
+      213: -368556273464486921
+    second: Mischievous lavender hooded ghost_30
+  - first:
+      213: -1599582688444396417
+    second: Mischievous lavender hooded ghost_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1233
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d5a561b388e7f0800000000000000
+      internalID: -583071353806661189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1130
+        width: 25
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc4a621320b66b0800000000000000
+      internalID: -5302141726173638722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 996
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745458b9ec21e8ab0800000000000000
+      internalID: -5004041457380276921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 779
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e9dd1b304440da0800000000000000
+      internalID: -5979579622581494118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 674
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa627863c94237c0800000000000000
+      internalID: -4093128007706580226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_5
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 601
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97849747a7b1560800000000000000
+      internalID: 7285551462871497151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_6
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 444
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17dab31bd489d690800000000000000
+      internalID: -7576878821610432739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_7
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d43f4e8f2ff804e0800000000000000
+      internalID: -2015080253532195632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 409
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120e54725e8b85d80800000000000000
+      internalID: -8261650222065262559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 401
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b0c1d221bd17370800000000000000
+      internalID: 8318670857842723631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 369
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2163b93b4b98c0800000000000000
+      internalID: -3991513933539103267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5194a2d06803f08c0800000000000000
+      internalID: -4030949789168678635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 329
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a0e727c46fb9d70800000000000000
+      internalID: 9051098684329953932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_13
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 163
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c93f53ee2d5d60800000000000000
+      internalID: 7880506477058312464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_14
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 178
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da8721d2c2d82d90800000000000000
+      internalID: -7122211076511921450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_15
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 154
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd505fd5ffcb2ff0800000000000000
+      internalID: -59725515118846498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_16
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848fa378a627abf0800000000000000
+      internalID: -313239144141716337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4074265612487530800000000000000
+      internalID: 3852902144917401677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bcd5d64da62460800000000000000
+      internalID: 7216645972655126965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43e425c7e8c48930800000000000000
+      internalID: 4144658454858228555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_20
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 152
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693bab6c6f3bd8090800000000000000
+      internalID: -8030564688054275178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_21
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6665a66c9354a30800000000000000
+      internalID: 4198825751943210671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 35
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783ad67e4aa76bc0800000000000000
+      internalID: -3789873307430799235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 37
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652b8451b8aa7390800000000000000
+      internalID: -7819752323394362006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 49
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9aba353953cfee0800000000000000
+      internalID: -1226046091671393822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb126d80ae4a24f10800000000000000
+      internalID: 2252544088716222910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_26
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 49
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de73f3c49c2c53e0800000000000000
+      internalID: -2063725511788233003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_27
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a6e0697ba28a60800000000000000
+      internalID: 7674885252797867363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a96bcf3df4f1c00800000000000000
+      internalID: 873504624629684767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2aef78d33d7b90800000000000000
+      internalID: -7242575620789883201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 17
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35860a500a2eaf0800000000000000
+      internalID: -368556273464486921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mischievous lavender hooded ghost_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 21
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c486215042dc9e0800000000000000
+      internalID: -1599582688444396417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mischievous lavender hooded ghost_0: -583071353806661189
+      Mischievous lavender hooded ghost_1: -5302141726173638722
+      Mischievous lavender hooded ghost_10: -3991513933539103267
+      Mischievous lavender hooded ghost_11: -4030949789168678635
+      Mischievous lavender hooded ghost_12: 9051098684329953932
+      Mischievous lavender hooded ghost_13: 7880506477058312464
+      Mischievous lavender hooded ghost_14: -7122211076511921450
+      Mischievous lavender hooded ghost_15: -59725515118846498
+      Mischievous lavender hooded ghost_16: -313239144141716337
+      Mischievous lavender hooded ghost_17: 3852902144917401677
+      Mischievous lavender hooded ghost_18: 7216645972655126965
+      Mischievous lavender hooded ghost_19: 4144658454858228555
+      Mischievous lavender hooded ghost_2: -5004041457380276921
+      Mischievous lavender hooded ghost_20: -8030564688054275178
+      Mischievous lavender hooded ghost_21: 4198825751943210671
+      Mischievous lavender hooded ghost_22: -3789873307430799235
+      Mischievous lavender hooded ghost_23: -7819752323394362006
+      Mischievous lavender hooded ghost_24: -1226046091671393822
+      Mischievous lavender hooded ghost_25: 2252544088716222910
+      Mischievous lavender hooded ghost_26: -2063725511788233003
+      Mischievous lavender hooded ghost_27: 7674885252797867363
+      Mischievous lavender hooded ghost_28: 873504624629684767
+      Mischievous lavender hooded ghost_29: -7242575620789883201
+      Mischievous lavender hooded ghost_3: -5979579622581494118
+      Mischievous lavender hooded ghost_30: -368556273464486921
+      Mischievous lavender hooded ghost_31: -1599582688444396417
+      Mischievous lavender hooded ghost_4: -4093128007706580226
+      Mischievous lavender hooded ghost_5: 7285551462871497151
+      Mischievous lavender hooded ghost_6: -7576878821610432739
+      Mischievous lavender hooded ghost_7: -2015080253532195632
+      Mischievous lavender hooded ghost_8: -8261650222065262559
+      Mischievous lavender hooded ghost_9: 8318670857842723631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

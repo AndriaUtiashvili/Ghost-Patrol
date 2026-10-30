@@ -1,0 +1,49 @@
+Ghost Patrol — Changes from the Original Design
+
+The finished game keeps the original core design: one level,
+five increasingly difficult waves, three ghost types, flashlight
+energy management, and automatic weapon upgrades.
+
+Changes made during development:
+
+1. Final boss
+A Ghost King boss appears after Wave 5. The player must defeat
+it to win. It moves horizontally while descending, has a visible
+health bar, and causes game over if it reaches the town.
+
+2. Invisible ghosts
+Invisible ghosts can only be seen AND damaged while the
+flashlight is active. They remain at one health in every wave
+to keep the mechanic manageable.
+
+3. Ghost progression
+Wave 1 introduces regular ghosts, Wave 2 adds fast ghosts,
+and Wave 3 introduces invisible ghosts. Later waves increase
+ghost numbers and shorten spawn intervals. Regular ghosts
+also gain health to make stronger weapons useful.
+
+4. Town protection
+Each ghost that escapes through the bottom removes one heart.
+Contact with the player also removes one heart. The ghost
+disappears after causing damage.
+
+5. Interface
+Health is displayed as three hearts. A cyan meter displays
+flashlight energy. Wave announcements appear briefly before
+enemies spawn. Start instructions, pause, and ending screens
+explain and support the game flow.
+
+6. Restart behavior
+Play Again resets the game and begins Wave 1 directly,
+without requiring another click on the title screen.
+
+7. Audio
+The game uses event-based sound effects rather than background
+music. The weapon-upgrade sound was removed because it felt
+unnecessary, while the weapon upgrades remain automatic.
+
+8. Visual effects
+Projectile colors, sizes, double shots, and trails communicate
+weapon progression. The boss flashes when damaged. Additional
+player damage flashes and ghost defeat particles were omitted
+to keep the project scope manageable.
